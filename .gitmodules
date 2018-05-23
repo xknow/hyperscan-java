@@ -1,0 +1,3 @@
+[submodule "native/hyperscan"]
+	path = native/hyperscan
+	url = git@github.com:intel/hyperscan.git
